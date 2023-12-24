@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "name": "Jack",
+    "alt": "Russell Dog",
+    "src": "/client-server-project/images/Jack_Russell_Terrier_1.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Brad",
+    "alt": "Beagle Dog",
+    "src": "https://img.dog-learn.com/dog-breeds/beagle/beagle-i2-sz6.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Benji",
+    "alt": "Basenji Dog",
+    "src": "https://www.thelabradorsite.com/wp-content/uploads/2018/07/small-basenji.jpg"
+  },
+  {
+    "id": 4,
+    "name": "Oti",
+    "alt": "Labrador Dog",
+    "src": "https://cbsnews1.cbsistatic.com/hub/i/2016/02/22/4123e888-2527-4ded-b104-c7d8f741aa09/istock000069115349large.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Bitles",
+    "alt": "Dachshund Dog",
+    "src": "https://www.rover.com/blog/wp-content/uploads/2021/06/pippa.the_.pipstar.jpg"
+  },
+  {
+    "id": 6,
+    "name": "Ruskle",
+    "alt": "A dog sitted",
+    "src": "https://petcenternj.com/wp-content/uploads/2019/03/Blog6-768x614.jpg"
+  },
+  {
+    "id": 7,
+    "name": "Betus",
+    "alt": "A dog sitted",
+    "src": "https://www.highlandcanine.com/wp-content/uploads/2015/01/iStock_000006266814_Large.jpg"
+  },
+  {
+    "id": 8,
+    "name": "Puppy",
+    "alt": "Pomeranian dog",
+    "src": "https://inspirationseek.com/wp-content/uploads/2014/09/Brown-Pomeranian-Dog-Pictures.jpg"
+  },
+  {
+    "id": 9,
+    "name": "Rabito",
+    "alt": "Farm dog",
+    "src": "https://petkeen.com/wp-content/uploads/2020/06/Black-White-Border-Collie-1536x1024.jpg"
+  },
+  {
+    "id": 10,
+    "name": "Marley",
+    "alt": "Friend dog",
+    "src": "https://www.emotionalpetsupport.com/wp-content/uploads/2020/03/dog-helps-reduce-depression-scaled.jpg"
+  },
+  {
+    "id": 11,
+    "name": "Bobby",
+    "alt": "Adorable dog",
+    "src": "https://petsoid.com/wp-content/uploads/2020/02/Akita.jpg"
+  },
+  {
+    "id": 12,
+    "name": "Nina",
+    "alt": "Funny dog",
+    "src": "https://muisephoto.files.wordpress.com/2016/01/uu-dogs-scout-baby-judy-1746.jpg"
+  }
+]
