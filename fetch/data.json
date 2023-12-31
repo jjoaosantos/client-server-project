@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "name": "Jack",
+    "alt": "Russell Dog",
+    "src": "/images/Jack_Russell_Terrier_1.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Benji",
+    "alt": "Basenji Dog",
+    "src": "/images/small-basenji.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Akita",
+    "alt": "Adorable dog",
+    "src": "/images/Akita.jpg"
+  }
+]

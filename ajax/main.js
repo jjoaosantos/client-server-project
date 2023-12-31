@@ -27,5 +27,5 @@ function getRandom(min, max) {
 }
 
 btn.addEventListener("click", () => {
-    image.style.backgroundImage = `url(${xhr.response[getRandom(1, dogs)].src})`
+    image.style.backgroundImage = `url(${xhr.response[getRandom(0, dogs)].src})`
 });
